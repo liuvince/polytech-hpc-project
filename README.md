@@ -16,4 +16,4 @@ mpicc pathtracer_MPIpixels.c -o pathtracer -lm
 
 ## Results
 
-![ScreenShot](https://raw.github.com/liuvince/polytech-hpc-project/blob/master/image.ppm)
+![ScreenShot](https://github.com/liuvince/polytech-hpc-project/blob/master/image.ppm)
