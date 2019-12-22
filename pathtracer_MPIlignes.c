@@ -5,6 +5,7 @@
  *
  * Pour des détails sur le processus de rendu, lire :
  * 	https://docs.google.com/open?id=0B8g97JkuSSBwUENiWTJXeGtTOHFmSm51UC01YWtCZw
+ * Rendu de projet HPC de Vincent LIU et Samir SAYAH
  */
 
 #define _XOPEN_SOURCE
