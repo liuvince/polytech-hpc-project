@@ -13,3 +13,5 @@ mpicc pathtracer_MPI_OMP.c -o pathtracer -lm
 mpicc pathtracer_MPIlignes.c -o pathtracer -lm
 mpicc pathtracer_MPIpixels.c -o pathtracer -lm
 ```
+
+Vincent
